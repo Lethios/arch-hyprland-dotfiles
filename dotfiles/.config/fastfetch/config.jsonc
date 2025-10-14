@@ -1,0 +1,125 @@
+{
+  "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/master/doc/json_schema.json",
+  "logo": {
+    "color": {
+      "1": "#f46930",
+      "2": "#f46930",
+      "3": "#f46930",
+      "4": "#f46930",
+      "5": "#f46930"
+    }
+  },
+  "modules": [
+    {
+      "type": "title",
+      "color": {
+        "user": "#f46930",
+        "at": "#f46930",
+        "host": "#f46930"
+      }
+    },
+    "separator",
+    {
+      "type": "os",
+      "keyColor": "#f46930"
+    },
+    {
+      "type": "host",
+      "keyColor": "#f46930"
+    },
+    {
+      "type": "kernel",
+      "keyColor": "#f46930"
+    },
+    {
+      "type": "uptime",
+      "keyColor": "#f46930"
+    },
+    {
+      "type": "packages",
+      "keyColor": "#f46930"
+    },
+    {
+      "type": "shell",
+      "keyColor": "#f46930"
+    },
+    {
+      "type": "display",
+      "keyColor": "#f46930"
+    },
+    {
+      "type": "de",
+      "keyColor": "#f46930"
+    },
+    {
+      "type": "wm",
+      "keyColor": "#f46930"
+    },
+    {
+      "type": "wmtheme",
+      "keyColor": "#f46930"
+    },
+    {
+      "type": "theme",
+      "keyColor": "#f46930"
+    },
+    {
+      "type": "icons",
+      "keyColor": "#f46930"
+    },
+    {
+      "type": "font",
+      "keyColor": "#f46930"
+    },
+    {
+      "type": "cursor",
+      "keyColor": "#f46930"
+    },
+    {
+      "type": "terminal",
+      "keyColor": "#f46930"
+    },
+    {
+      "type": "terminalfont",
+      "keyColor": "#f46930"
+    },
+    {
+      "type": "cpu",
+      "keyColor": "#f46930"
+    },
+    {
+      "type": "gpu",
+      "keyColor": "#f46930"
+    },
+    {
+      "type": "memory",
+      "keyColor": "#f46930"
+    },
+    {
+      "type": "swap",
+      "keyColor": "#f46930"
+    },
+    {
+      "type": "disk",
+      "keyColor": "#f46930"
+    },
+    {
+      "type": "localip",
+      "keyColor": "#f46930"
+    },
+    {
+      "type": "battery",
+      "keyColor": "#f46930"
+    },
+    {
+      "type": "poweradapter",
+      "keyColor": "#f46930"
+    },
+    {
+      "type": "locale",
+      "keyColor": "#f46930"
+    },
+    "break",
+    "colors"
+  ]
+}

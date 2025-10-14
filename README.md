@@ -1,1 +1,1 @@
-
+# Hyprland Rice Test
